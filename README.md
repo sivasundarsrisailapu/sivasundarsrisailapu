@@ -13,7 +13,7 @@
 
 I'm **Siva Sundar Srisailapu**, a Graphic Designer & Video Editor from Visakhapatnam, India. I design posters, YouTube thumbnails and social media creatives, edit high-energy reels, and build clean website layouts. I'm also the founder of **Telugu Anime Database (TADB)**, a website, Android app and Instagram community for Telugu anime fans.
 
-- 🎨 **Right now:** Graphic Designer & Video Editor (Intern) at **SHM Technologies**
+- 🎨 **Right now:** Graphic Designer & Video Editor at **SHM Technologies** (since Aug 2026)
 - 🌸 **Building:** the website and app for **[Andhra Anime Club](https://andhra-anime-club.pages.dev/)**
 - 📱 **Shipped:** the TADB Android app, with **1,000+ downloads** on Google Play
 - 💬 **Ask me about:** Photoshop, thumbnails, reels, CapCut edits and Figma layouts
@@ -50,7 +50,7 @@ I'm **Siva Sundar Srisailapu**, a Graphic Designer & Video Editor from Visakhapa
 
 | | Role | Where | When |
 |:-:|---|---|---|
-| 💼 | Graphic Designer & Video Editor (Intern) | SHM Technologies | 2026 |
+| 💼 | Graphic Designer & Video Editor | SHM Technologies | Aug 2026 – Present |
 | 🚀 | Founder & Content Creator | Telugu Anime Database (TADB) | 2024 – Present |
 | 💼 | Associate, Data & Documentation | WNS (Capgemini) | 2025 |
 | 💼 | Associate, Operations & Process Support | Tech Mahindra | 2024 |
