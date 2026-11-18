@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="Graphic Design, Video Editing, UI/UX Layouts, Web Design, Reels &amp; Motion, Content Creation">
+<style>
+  .track { animation: scroll 22s linear infinite; }
+  @keyframes scroll { to { transform: translateX(-1200px); } }
+</style>
+<defs><clipPath id="f3"><rect width="1200" height="64" rx="18"/></clipPath></defs>
+<g clip-path="url(#f3)">
+  <rect width="1200" height="64" fill="#161412"/>
+  <g class="track"><text x="10" y="41" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" textLength="1180" lengthAdjust="spacing" xml:space="preserve">Graphic Design <tspan fill="#D4E11E">&#10022;</tspan>  Video Editing <tspan fill="#D4E11E">&#10022;</tspan>  UI/UX Layouts <tspan fill="#D4E11E">&#10022;</tspan>  Web Design <tspan fill="#D4E11E">&#10022;</tspan>  Reels &amp; Motion <tspan fill="#D4E11E">&#10022;</tspan>  Content Creation <tspan fill="#D4E11E">&#10022;</tspan>  </text><text x="1210" y="41" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" textLength="1180" lengthAdjust="spacing" xml:space="preserve">Graphic Design <tspan fill="#D4E11E">&#10022;</tspan>  Video Editing <tspan fill="#D4E11E">&#10022;</tspan>  UI/UX Layouts <tspan fill="#D4E11E">&#10022;</tspan>  Web Design <tspan fill="#D4E11E">&#10022;</tspan>  Reels &amp; Motion <tspan fill="#D4E11E">&#10022;</tspan>  Content Creation <tspan fill="#D4E11E">&#10022;</tspan>  </text></g>
+</g>
+</svg>
